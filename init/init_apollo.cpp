@@ -94,11 +94,11 @@ void vendor_load_properties() {
         set_device_props(
                 "google/redfin/redfin:11/RQ2A.210405.005/7181113:user/release-keys",
 		"redfin-user 11 RQ2A.210405.005 7181113 release-keys",
-                "Xiaomi", "apollo", "Xiaomi Mi 10T");
+                "Xiaomi", "apollo", "Mi 10T");
     } else if (product.find("pro") != std::string::npos) {
         set_device_props(
                 "google/redfin/redfin:11/RQ2A.210405.005/7181113:user/release-keys",
 		"redfin-user 11 RQ2A.210405.005 7181113 release-keys",
-		"Xiaomi", "apollo", "Xiaomi Mi 10T Pro");
+		"Xiaomi", "apollo", "Mi 10T Pro");
     }
 }

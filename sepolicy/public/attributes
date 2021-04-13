@@ -13,7 +13,3 @@ attribute hal_motor_server;
 attribute hal_touchfeature;
 attribute hal_touchfeature_client;
 attribute hal_touchfeature_server;
-
-attribute hal_lineage_fod;
-attribute hal_lineage_fod_client;
-attribute hal_lineage_fod_server;
